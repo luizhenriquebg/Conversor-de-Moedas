@@ -45,13 +45,13 @@ select, input {
 }
 
 .brasil {
-  width: 54px;
-  height: 54px;
+  width: 48px;
+  height: 48px;
 }
 
-.EUA {
-  width: 54px;
-  height: 54px;
+.currency-img {
+  width: 48px;
+  height: 48px;
 }
 
 button {
